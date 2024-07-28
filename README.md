@@ -7,8 +7,6 @@ This repository contains the implementation of an AI that plays the Snake game. 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Files](#files)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
@@ -22,11 +20,6 @@ This repository contains the implementation of an AI that plays the Snake game. 
    ```sh
    python3 -m venv venv
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-   ```
-
-3. **Install the required dependencies:**
-   ```sh
-   pip install -r requirements.txt
    ```
 
 ## Usage
